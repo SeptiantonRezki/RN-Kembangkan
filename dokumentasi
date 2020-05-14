@@ -1,0 +1,21 @@
+1. untuk generate mejad aplikasi
+
+https://reactnative.dev/docs/signed-apk-android
+
+https://stackoverflow.com/questions/56576462/gradlew-bundlerelease-doesnt-generate-release-apk-in-react-native
+I had the same problem. Following command worked for me:
+
+After the ./gradlew bundleRelease command we get a .aab version of our app. To get APK, you should run the app with release version on any device with the below command.
+
+Make sure you have connected an android device
+For the production ready app, firstly you have to remove the previous app from the device
+Run this command in your-project/:
+
+react-native run-android --variant=release
+yarn android --variant=release
+Then APK can be found in android/app/build/outputs/apk/release
+
+Hope this helps
+
+MENGGUNAKAN FIREBASE STORE MAKA HARUS SETTIGN INI TERLEBIH DAHULU
+https://rnfirebase.io/enabling-multidex

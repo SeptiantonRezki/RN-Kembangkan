@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "5349516307",
+    "firebase_url": "https://projek-simpan.firebaseio.com",
+    "project_id": "projek-simpan",
+    "storage_bucket": "projek-simpan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5349516307:android:ea4656622f38d6239c8be6",
+        "android_client_info": {
+          "package_name": "com.projeka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5349516307-7sgg06k8qg74e4en6q7g66snad50s2l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEovrHTdMe4BtIf5mcga-hW3-SHcYpSik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5349516307-7sgg06k8qg74e4en6q7g66snad50s2l9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

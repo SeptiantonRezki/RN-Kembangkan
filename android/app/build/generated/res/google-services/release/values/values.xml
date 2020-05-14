@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">5349516307-7sgg06k8qg74e4en6q7g66snad50s2l9.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://projek-simpan.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">5349516307</string>
+    <string name="google_api_key" translatable="false">AIzaSyDEovrHTdMe4BtIf5mcga-hW3-SHcYpSik</string>
+    <string name="google_app_id" translatable="false">1:5349516307:android:ea4656622f38d6239c8be6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDEovrHTdMe4BtIf5mcga-hW3-SHcYpSik</string>
+    <string name="google_storage_bucket" translatable="false">projek-simpan.appspot.com</string>
+    <string name="project_id" translatable="false">projek-simpan</string>
+</resources>

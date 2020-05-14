@@ -1,0 +1,4 @@
+#Sun May 10 15:36:51 ICT 2020
+base.0=E\:\\React\\rn\\ProjekA\\android\\app\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
